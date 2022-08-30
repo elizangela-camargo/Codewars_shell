@@ -1,0 +1,1 @@
+csplit -k -f AQUIVONOVPO ARQUIVOQUEQUEROALTERR "/ 1;/" {9}
